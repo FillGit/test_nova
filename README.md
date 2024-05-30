@@ -16,6 +16,7 @@ Installation
 
 
 Для того, чтобы поместить файл в Google Drive, нужно сделать следующее:
+    
     python manage.py runserver
     
     Вызвать:
